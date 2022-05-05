@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, rgb(130, 137, 208),rgb(78, 57, 174));
+}
+
+.flex-child {
+    background: linear-gradient(rgb(154, 234, 246), rgb(79, 163, 166));
+    padding: 5rem;
+    font-size: 5rem;
+    border-radius: 20px;
+    box-shadow: rgb(31, 15, 117) 10px 10px;
+    font-family: 'Source sans pro';
+}
