@@ -4,7 +4,10 @@
     justify-content: center;
     flex-direction: row;
     height: 100vh;
+    height: 100%;
+    flex-direction: column;
     background: linear-gradient(to right, rgb(130, 137, 208),rgb(78, 57, 174));
+    
 }
 
 .flex-child {
